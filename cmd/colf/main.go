@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dstuebe/colfer/tree/jdk9_support"
+	"github.com/dstuebe/colfer"
 )
 
 var (
